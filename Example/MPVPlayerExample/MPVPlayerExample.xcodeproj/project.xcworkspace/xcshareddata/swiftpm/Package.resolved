@@ -1,0 +1,24 @@
+{
+  "originHash" : "0733f14532db43a7612bf334b1f4232933c9b7b9c1e108cb56ba1915429c95dd",
+  "pins" : [
+    {
+      "identity" : "mpvkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/mpvkit/MPVKit.git",
+      "state" : {
+        "revision" : "839dfa34b96029daef10b32d401c98edf17f04ae",
+        "version" : "0.39.0"
+      }
+    },
+    {
+      "identity" : "repeat",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/malcommac/Repeat.git",
+      "state" : {
+        "revision" : "9df757d0936c15dfd9d01067766fab87e927f838",
+        "version" : "0.6.0"
+      }
+    }
+  ],
+  "version" : 3
+}
